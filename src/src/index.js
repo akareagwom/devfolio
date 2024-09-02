@@ -6,6 +6,7 @@ require('flickity-imagesloaded');
 var $carousels = new Array();
 
 // Modals
+//something
 
 var rootEl = document.documentElement;
 var $modals = getAll('.modal');
